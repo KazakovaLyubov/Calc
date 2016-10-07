@@ -1,10 +1,10 @@
 <html>
 <body>
-<h1>Сумматор<h1><hr>
+<h1>РЎСѓРјРјР°С‚РѕСЂ<h1><hr>
 <form action="calc.php" method="GET">
 <input type="text" name="arg1" value "">
 <input type="text" name="arg2" value "">
-<input type="submit" value="Сумма">
+<input type="submit" value="РЎСѓРјРјР°">
 </form>
 <php
 	if(isset($_GET['arg1'])&& isset($_GET['arg2'])){
